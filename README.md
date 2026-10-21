@@ -1,4 +1,4 @@
-# BLEtracker 🚌📍
+# HILLSync 🚌📍
 
 **A tiny Bluetooth tag that tells the system who is really driving, so buses on narrow hill roads stop meeting each other head-on.**
 
